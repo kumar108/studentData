@@ -1,0 +1,9 @@
+2020-08-28 18:13:36,095 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-28 18:15:16,251 [Worker-17: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-28 18:15:16,739 [Worker-17: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-08-28 18:15:16,743 [Worker-17: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-28 18:15:16,835 [Worker-17: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file://${project.basedir}/repo/org/springframework/ide/vscode/commons-parent/1.20.0-SNAPSHOT/maven-metadata.xml
+2020-08-28 18:15:16,857 [Worker-17: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file://${project.basedir}/repo/org/springframework/ide/vscode/commons-parent/1.20.0-SNAPSHOT/commons-parent-1.20.0-SNAPSHOT.pom
+2020-08-28 18:15:17,029 [Worker-17: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file://${basedir}/repo/org/springframework/ide/vscode/commons-parent/1.20.0-SNAPSHOT/maven-metadata.xml
+2020-08-28 18:15:17,039 [Worker-17: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file://${basedir}/repo/org/springframework/ide/vscode/commons-parent/1.20.0-SNAPSHOT/commons-parent-1.20.0-SNAPSHOT.pom
+2020-08-28 18:15:17,133 [Worker-17: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
