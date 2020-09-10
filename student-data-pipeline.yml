@@ -21,6 +21,6 @@ steps:
   displayName: 'Run a multi-line script'
   
 - job: job2
-  steps:
- - script: echo job2 -Hello world ,changed!
+steps:
+- script: echo job2 -Hello world ,changed!
   displayName: 'run a one-line script'
